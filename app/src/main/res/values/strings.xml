@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora da Média</string>
+    <string name="etNumber1">Digite o primeiro valor</string>
+    <string name="etNumber2">Digite o segundo valor</string>
+    <string name="etNumber3">Digite o terceiro valor</string>
+    <string name="btCalculate">Calcular Media</string>
+</resources>
